@@ -51,4 +51,4 @@ Possible improvements include:
 - adding unit tests
 - using asynchronous networking for API calls
 - storing budget data persistently
-- improving error handling and logging
+- improving error handling and logging 
